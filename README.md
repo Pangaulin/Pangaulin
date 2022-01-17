@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AimFlying
-- 👀 I’m interested in JS, C++, Java and HTML-CSS
+- 👀 I’m interested by JS, C++, Java, HTML-CSS and C#
 - 🌱 I’m currently learning JS and C++
 - 🤖 I'm currently creating a Discord bot named "Skynet" for my Discord server
 <!---
